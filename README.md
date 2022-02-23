@@ -71,6 +71,3 @@ I am a Sr. Digital Marketing Strategist at <a href="https://www.directom.com/">D
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonathanbentz&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbentz)](https://github.com/jonathanbentz/github-readme-stats)
-
-  
