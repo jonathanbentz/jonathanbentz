@@ -3,7 +3,7 @@
 <div id="badges">
      <a href="https://www.linkedin.com/in/jonathanbentz/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.youtube.com/user/jonbmx3/"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
- <a href="https://www.twitter.com/jonathanbentz/"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+ <a href="https://www.facebook.com/jonathanbentz/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/></a>
     </div>
   <img src="https://komarev.com/ghpvc/?username=jonathanbentz&style=flat-square&color=blue" alt=""/>
   </div>
@@ -14,7 +14,7 @@ Whuddup? 👋
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/A2V5v8e0ZpER2/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -23,10 +23,9 @@ Whuddup? 👋
 
 I am a Sr. Digital Marketing Strategist at <a href="https://www.directom.com/">Direct Online Marketing</a> from West Virginia in the USA.
 
-- :telescope: As I mentioned above, I’m a Sr. Digital Marketing Specialist helping clients at DOM generate more leads, sales, and traffic from their websites.
+- :telescope: I help growing companies at DOM generate more leads, sales, and traffic from their websites.
 - :seedling: Exploring the "Warrior's Way" to having it all when I'm not working on improving client results.
 - :zap: In my free time, I hang out with my kids and watch the WVU Mountaineers. One thing usually brings me joy, the other often does not.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jonathanbentz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanbentz)
 - 👯 I’m looking to collaborate on link exchanges and co-marketing initiatives.
 - 🤔 I’m looking for help with consistently implementing schema types for repeatable success.
 - 💬 Ask me about digital marketing strategies to help your business grow.
@@ -36,6 +35,9 @@ I am a Sr. Digital Marketing Strategist at <a href="https://www.directom.com/">D
 ---
 
 ### :writing_hand: Blog Posts :
+  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
   
 ---
 
