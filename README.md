@@ -14,7 +14,7 @@ Whuddup? 👋
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/A2V5v8e0ZpER2/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/hqUp2o2TldiRkXOUsx/giphy.gif" width="487" height="284"/>
 </div>
 
 ---
