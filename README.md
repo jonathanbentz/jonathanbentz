@@ -37,8 +37,8 @@ I am a Sr. Digital Marketing Strategist at <a href="https://www.directom.com/">D
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
+- [12 Marketing Plans For Your Rehab Center To Kickstart Its Growth &lpar;Updated March 2022&rpar;](https://www.directom.com/treatment-rehab-marketing/)
 - [What is Social Commerce? Does It Matter In B2B?](https://www.directom.com/social-commerce-b2b/)
-- [12 Marketing Plans For Your Rehab Center To Kickstart Its Growth &lpar;Updated October 2021&rpar;](https://www.directom.com/treatment-rehab-marketing/)
 - [20 Actionable Digital Marketing Ideas for Promoting Training Courses &lpar;Updated 2021&rpar;](https://www.directom.com/promoting-training-courses/)
 - [The Unbelievable Truth Behind Using Quora For SEO &lpar;And How to Do it Right&rpar; [Updated 2020]](https://www.directom.com/quora-help-seo/)
 <!-- BLOG-POST-LIST:END -->
