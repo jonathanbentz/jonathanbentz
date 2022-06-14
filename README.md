@@ -37,10 +37,10 @@ I am a Sr. Digital Marketing Strategist at <a href="https://www.directom.com/">D
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
+- [Which Crypto Platform Has The Best SEO Strategy?](https://www.directom.com/seo-cryptocurrency/)
 - [“Building Reviews Up Is Incredibly Important.” – Justin Joins The Latest Episode Of Keep Optimising](https://www.directom.com/online-reputation-management-podcast/)
 - [12 Marketing Plans For Your Rehab Center To Kickstart Its Growth &lpar;Updated March 2022&rpar;](https://www.directom.com/treatment-rehab-marketing/)
 - [What is Social Commerce? Does It Matter In B2B?](https://www.directom.com/social-commerce-b2b/)
-- [20 Actionable Digital Marketing Ideas for Promoting Training Courses &lpar;Updated 2021&rpar;](https://www.directom.com/promoting-training-courses/)
 <!-- BLOG-POST-LIST:END -->
   
 ---
