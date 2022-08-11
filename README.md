@@ -37,10 +37,10 @@ I am a Sr. Digital Marketing Strategist at <a href="https://www.directom.com/">D
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
-- [Next Tuesday… Are You Ready To “CNBSeen” In Pittsburgh With Us &lpar;And Google&rpar;?](https://www.directom.com/cnbseen-google-august-2022/)
 - [Begin Your Google Analytics 4 Training In Our Upcoming Webinar](https://www.directom.com/google-analytics-4-training/)
 - [“Building Reviews Up Is Incredibly Important.” – Justin Joins The Latest Episode Of Keep Optimising](https://www.directom.com/online-reputation-management-podcast/)
 - [12 Marketing Plans For Your Rehab Center To Kickstart Its Growth &lpar;Updated March 2022&rpar;](https://www.directom.com/treatment-rehab-marketing/)
+- [What is Social Commerce? Does It Matter In B2B?](https://www.directom.com/social-commerce-b2b/)
 <!-- BLOG-POST-LIST:END -->
   
 ---
