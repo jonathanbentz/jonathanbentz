@@ -37,10 +37,10 @@ I am a Sr. Digital Marketing Strategist at <a href="https://www.directom.com/">D
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
-- [How to DOMinate Black Friday Marketing](https://www.directom.com/black-friday-marketing/)
-- [30+ SEO Tips for Holiday Ecommerce](https://www.directom.com/holidayecommerceseotips/)
+- [12 Profitable Holiday Marketing Ideas To Make This Your Best Year Yet](https://www.directom.com/holiday-marketing-ideas/)
 - [We Made The 2022 Inc. 5000 &lpar;And We’re WV’s 4th Fastest Growing Company&rpar;](https://www.directom.com/inc-5000-2022/)
 - [Begin Your Google Analytics 4 Training In Our Upcoming Webinar](https://www.directom.com/google-analytics-4-training/)
+- [“Building Reviews Up Is Incredibly Important.” – Justin Joins The Latest Episode Of Keep Optimising](https://www.directom.com/online-reputation-management-podcast/)
 <!-- BLOG-POST-LIST:END -->
   
 ---
