@@ -37,10 +37,10 @@ I am a Sr. Digital Marketing Strategist at <a href="https://www.directom.com/">D
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
+- [Make SEO Work For You: Join Justin For This PRSA Virtual Workshop In December!](https://www.directom.com/prsa-workshops-december-2022/)
 - [Unsure How To Setup Your GA4 Migration? There’s A Checklist For That!](https://www.directom.com/google-analytics-4-setup-guide/)
 - [12 Profitable Holiday Marketing Ideas To Make This Your Best Year Yet](https://www.directom.com/holiday-marketing-ideas/)
 - [We Made The 2022 Inc. 5000 &lpar;And We’re WV’s 4th Fastest Growing Company&rpar;](https://www.directom.com/inc-5000-2022/)
-- [Begin Your Google Analytics 4 Training In Our Upcoming Webinar](https://www.directom.com/google-analytics-4-training/)
 <!-- BLOG-POST-LIST:END -->
   
 ---
