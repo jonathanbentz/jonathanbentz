@@ -37,7 +37,7 @@ I am a Sr. Digital Marketing Strategist at <a href="https://www.directom.com/">D
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
-- [Want To Improve Your Digital Export Development? Join Justin’s Upcoming Office Hours!](https://www.directom.com/digital-export-development-office-hours/)
+- [Want To Improve Your Digital Export Development? Join Justin Seibert’s Upcoming Office Hours!](https://www.directom.com/digital-export-development-office-hours/)
 - [Make SEO Work For You: Join Justin For This PRSA Virtual Workshop In December!](https://www.directom.com/prsa-workshops-december-2022/)
 - [Unsure How To Setup Your GA4 Migration? There’s A Checklist For That!](https://www.directom.com/google-analytics-4-setup-guide/)
 - [12 Profitable Holiday Marketing Ideas To Make This Your Best Year Yet](https://www.directom.com/holiday-marketing-ideas/)
