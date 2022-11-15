@@ -37,10 +37,10 @@ I am a Sr. Digital Marketing Strategist at <a href="https://www.directom.com/">D
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
+- [How Much Do Internal Links Affect SEO? &lpar;UPDATED November 2022&rpar;](https://www.directom.com/internal-links-affect-seo/)
 - [Is GA4 Better Than UA? Find Out In Our Next Webinar!](https://www.directom.com/google-analytics-4-better/)
 - [Want To Improve Your Digital Export Development? Join Justin Seibert’s Upcoming Office Hours!](https://www.directom.com/digital-export-development-office-hours/)
 - [Make SEO Work For You: Join Justin For This PRSA Virtual Workshop In December!](https://www.directom.com/prsa-workshops-december-2022/)
-- [Unsure How To Setup Your GA4 Migration? There’s A Checklist For That!](https://www.directom.com/google-analytics-4-setup-guide/)
 <!-- BLOG-POST-LIST:END -->
   
 ---
